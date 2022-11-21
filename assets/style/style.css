@@ -1,0 +1,22 @@
+/* BASIC STYLES HERE */
+
+
+body {
+  background-image: url("https://media1.giphy.com/media/3ohs4jO0azuqvRyms0/200w.gif?cid=82a1493bw5gjz9cqfnae0ddl5hi2h8o7ibvg3kj5w5d00398&rid=200w.gif&ct=g");
+  background-size: cover;
+  background-position: center;
+  backdrop-filter: blur(10px);
+}
+
+
+.joke-body {
+  height: 600px;
+  width: 400px;
+  background-color: rgb(51 27 61 / 14%);
+  backdrop-filter: blur(15px);
+}
+
+.nav-bar {
+  background-color: rgb(51 27 61 / 14%);
+  backdrop-filter: blur(15px);
+}
